@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<options>
+  <item id="server" value="192.168.0.2" />
+  <item id="database" value="Agrochim31" />
+  <item id="login" value="sa" />
+  <item id="password" value="Tr1nItr0N" />
+  <item id="accesscode" value="f9d08276bc85d30d578e8883f3c7e843" />
+</options>

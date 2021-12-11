@@ -1,0 +1,898 @@
+C:\Users\CHERNYAVSKIH\Desktop\agro_proba\agro_proba\bin\agro_proba.dll
+C:\Users\CHERNYAVSKIH\Desktop\agro_proba\agro_proba\bin\agro_proba.pdb
+C:\Users\CHERNYAVSKIH\Desktop\agro_proba\agro_proba\bin\Ext.Net.dll
+C:\Users\CHERNYAVSKIH\Desktop\agro_proba\agro_proba\bin\Ext.Net.Utilities.dll
+C:\Users\CHERNYAVSKIH\Desktop\agro_proba\agro_proba\bin\Newtonsoft.Json.dll
+C:\Users\CHERNYAVSKIH\Desktop\agro_proba\agro_proba\bin\Transformer.NET.dll
+C:\Users\CHERNYAVSKIH\Desktop\agro_proba\agro_proba\bin\Ext.Net.xml
+C:\Users\CHERNYAVSKIH\Desktop\agro_proba\agro_proba\bin\Ext.Net.Utilities.xml
+C:\Users\CHERNYAVSKIH\Desktop\agro_proba\agro_proba\bin\Newtonsoft.Json.xml
+C:\Users\CHERNYAVSKIH\Desktop\agro_proba\agro_proba\bin\Transformer.NET.xml
+C:\Users\CHERNYAVSKIH\Desktop\agro_proba\agro_proba\obj\Release\agro_proba.csprojResolveAssemblyReference.cache
+C:\Users\CHERNYAVSKIH\Desktop\agro_proba\agro_proba\obj\Release\RdlCompile.cache
+C:\Users\CHERNYAVSKIH\Desktop\agro_proba\agro_proba\obj\Release\RdlCompile.compiled
+C:\Users\CHERNYAVSKIH\Desktop\agro_proba\agro_proba\obj\Release\agro_proba.dll
+C:\Users\CHERNYAVSKIH\Desktop\agro_proba\agro_proba\obj\Release\agro_proba.pdb
+C:\Users\CHERNYAVSKIH\Desktop\agro_proba\agro_proba\bin\connection.xml
+C:\Users\CHERNYAVSKIH\Desktop\agro_proba\agro_proba\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CHERNYAVSKIH\Desktop\agro_proba\agro_proba\bin\WebActivatorEx.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\obj\Release\agro_proba.csprojResolveAssemblyReference.cache
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\obj\Release\RdlCompile.cache
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\obj\Release\RdlCompile.compiled
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\obj\Release\agro_proba.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\obj\Release\agro_proba.pdb
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\connection.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\agro_proba.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\agro_proba.pdb
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\Ext.Net.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\Ext.Net.Utilities.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\Newtonsoft.Json.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\Transformer.NET.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\WebActivatorEx.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\Ext.Net.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\Ext.Net.Utilities.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\Newtonsoft.Json.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\Transformer.NET.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\1\agro_proba\agro_proba\bin\GroupBySoilSubReport.rdlc
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\1\agro_proba\agro_proba\bin\GroupBySoilHeavyMetalSubReport.rdlc
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\1\agro_proba\agro_proba\bin\connection.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\1\agro_proba\agro_proba\bin\agro_proba.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\1\agro_proba\agro_proba\bin\agro_proba.pdb
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\1\agro_proba\agro_proba\bin\Ext.Net.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\1\agro_proba\agro_proba\bin\Ext.Net.Utilities.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\1\agro_proba\agro_proba\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\1\agro_proba\agro_proba\bin\Newtonsoft.Json.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\1\agro_proba\agro_proba\bin\Transformer.NET.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\1\agro_proba\agro_proba\bin\WebActivatorEx.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\1\agro_proba\agro_proba\bin\Ext.Net.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\1\agro_proba\agro_proba\bin\Ext.Net.Utilities.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\1\agro_proba\agro_proba\bin\Newtonsoft.Json.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\1\agro_proba\agro_proba\bin\Transformer.NET.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\1\agro_proba\agro_proba\obj\Release\agro_proba.csprojResolveAssemblyReference.cache
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\1\agro_proba\agro_proba\obj\Release\agro_proba.g.resources
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\1\agro_proba\agro_proba\obj\Release\RdlCompile.cache
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\1\agro_proba\agro_proba\obj\Release\RdlCompile.compiled
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\1\agro_proba\agro_proba\obj\Release\agro_proba.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\1\agro_proba\agro_proba\obj\Release\agro_proba.pdb
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\obj\Release\agro_proba.g.resources
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\1\agro_proba\agro_proba\bin\ReportsDS.xsc
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\1\agro_proba\agro_proba\bin\ReportsDS.xss
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\1\agro_proba\agro_proba\bin\ReportsDS.Designer.cs
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\obj\Release\agro_proba.csprojResolveAssemblyReference.cache
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\obj\Release\agro_proba.g.resources
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\obj\Release\RdlCompile.cache
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\obj\Release\RdlCompile.compiled
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\obj\Release\agro_proba.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\obj\Release\agro_proba.pdb
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\ReportsDS.Designer.cs
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\ReportsDS.xsc
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\ReportsDS.xss
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\connection.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\agro_proba.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\agro_proba.pdb
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\Ext.Net.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\Ext.Net.Utilities.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\Newtonsoft.Json.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\Transformer.NET.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\WebActivatorEx.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\Ext.Net.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\Ext.Net.Utilities.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\Newtonsoft.Json.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\Transformer.NET.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\ReportsDS.xsc
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\ReportsDS.xss
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\ReportsDS.Designer.cs
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\новый\agro_proba\agro_proba\bin\ReportsDS.xsc
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\новый\agro_proba\agro_proba\bin\ReportsDS.xss
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\новый\agro_proba\agro_proba\bin\ReportsDS.Designer.cs
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\новый\agro_proba\agro_proba\bin\connection.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\новый\agro_proba\agro_proba\bin\agro_proba.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\новый\agro_proba\agro_proba\bin\agro_proba.pdb
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\новый\agro_proba\agro_proba\bin\Ext.Net.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\новый\agro_proba\agro_proba\bin\Ext.Net.Utilities.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\новый\agro_proba\agro_proba\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\новый\agro_proba\agro_proba\bin\Newtonsoft.Json.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\новый\agro_proba\agro_proba\bin\Transformer.NET.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\новый\agro_proba\agro_proba\bin\WebActivatorEx.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\новый\agro_proba\agro_proba\bin\Ext.Net.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\новый\agro_proba\agro_proba\bin\Ext.Net.Utilities.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\новый\agro_proba\agro_proba\bin\Newtonsoft.Json.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\новый\agro_proba\agro_proba\bin\Transformer.NET.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\новый\agro_proba\agro_proba\obj\Release\agro_proba.csprojResolveAssemblyReference.cache
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\новый\agro_proba\agro_proba\obj\Release\agro_proba.g.resources
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\новый\agro_proba\agro_proba\obj\Release\RdlCompile.cache
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\новый\agro_proba\agro_proba\obj\Release\RdlCompile.compiled
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\новый\agro_proba\agro_proba\obj\Release\agro_proba.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\новый\agro_proba\agro_proba\obj\Release\agro_proba.pdb
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\functions.js
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\resizemap.js
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\maps\cities.DBF
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\maps\cities.prj
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\maps\cities.SHP
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\maps\cities.shp.sidx
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\maps\cities.SHX
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\maps\countries.dbf
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\maps\countries.prj
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\maps\countries.shp
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\maps\countries.shp.sidx
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\maps\countries.shx
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\maps\obl.dbf
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\maps\obl.prj
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\maps\obl.shp
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\maps\obl.shp.sidx
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\maps\obl.shx
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\BruTile.Desktop.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\BruTile.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\Common.Logging.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\DotSpatial.Projections.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\gdalconst_csharp.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\gdal_csharp.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\GeoAPI.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\GeoAPI.Extensions.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\Mono.Security.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\NetTopologySuite.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\NetTopologySuite.IO.GeoTools.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\NetTopologySuite.IO.MsSqlSpatial.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\NetTopologySuite.IO.PostGis.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\NetTopologySuite.IO.SpatiaLite.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\Npgsql.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\ogr_csharp.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\osr_csharp.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\PowerCollections.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\ProjNet.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\SharpMap.Data.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\SharpMap.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\SharpMap.Extensions.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\SharpMap.Web.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\System.Data.SQLite.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\System.Data.SQLite.Linq.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\DotSpatial.Projections.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\GeoAPI.Extensions.pdb
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\Npgsql.pdb
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\Npgsql.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\SharpMap.pdb
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\SharpMap.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\SharpMap.Data.pdb
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\SharpMap.Extensions.pdb
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\SharpMap.Extensions.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\SharpMap.Web.pdb
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\SharpMap.Web.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\de\Npgsql.resources.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\es\Npgsql.resources.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\fi\Npgsql.resources.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\fr\Npgsql.resources.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\ja\Npgsql.resources.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\agro_proba\agro_proba\bin\zh-CN\Npgsql.resources.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\functions.js
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\resizemap.js
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\plugins\ogr_OCI.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\plugins\netcdf.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\plugins\lti_dsdk.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\plugins\libecwj2.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\plugins\hdf5dll.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\plugins\gdal_netCDF.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\plugins\gdal_MrSID.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\plugins\gdal_HDF5Image.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\plugins\gdal_HDF5.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\plugins\gdal_GMT.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\plugins\gdal_GEOR.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\plugins\gdal_FITS.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\plugins\gdal_ECW_JP2ECW.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\plugins\gdal_BAG.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\plugins\cfitsio.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\plugins\ogr_OCI.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\plugins\netcdf.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\plugins\lti_dsdk.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\plugins\libecwj2.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\plugins\hdf5dll.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\plugins\gdal_netCDF.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\plugins\gdal_MrSID.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\plugins\gdal_HDF5Image.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\plugins\gdal_HDF5.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\plugins\gdal_GMT.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\plugins\gdal_GEOR.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\plugins\gdal_FITS.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\plugins\gdal_ECW_JP2ECW.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\plugins\gdal_BAG.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\plugins\cfitsio.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\zlib1.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\xerces-c_2_8.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\ssleay32.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\spatialite.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\proj.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\osr_wrap.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\openjpeg.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\ogr_wrap.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\msvcr100.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\msvcp100.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\libpq.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\libmysql.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\libexpat.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\libeay32.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\libcurl.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\iconv.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\geos_c.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\gdal_wrap.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\gdalconst_wrap.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\gdal19.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x86\freexl.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\zlib1.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\xerces-c_2_8.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\ssleay32.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\spatialite.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\proj.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\osr_wrap.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\openjpeg.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\ogr_wrap.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\msvcr100.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\msvcp100.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\libpq.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\libmysql.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\libexpat.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\libeay32.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\libcurl.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\iconv.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\geos_c.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\gdal_wrap.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\gdalconst_wrap.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\gdal19.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\x64\freexl.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\share\nad.lst
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\pci_ellips.txt
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\pci_datum.txt
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\nitf_spec.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\GDALLogoGS.svg
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\GDALLogoColor.svg
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\GDALLogoBW.svg
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\gdalicon.png
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\gdal_datum.csv
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\geoccs.csv
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\gt_datum.csv
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\gt_ellips.csv
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\header.dxf
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\nitf_spec.xsd
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\pcs.csv
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\pcs.override.csv
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\prime_meridian.csv
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\projop_wparm.csv
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\s57agencies.csv
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\s57attributes.csv
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\s57attributes_aml.csv
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\s57attributes_iw.csv
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\s57expectedinput.csv
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\s57objectclasses.csv
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\s57objectclasses_aml.csv
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\s57objectclasses_iw.csv
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\seed_2d.dgn
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\seed_3d.dgn
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\stateplane.csv
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\trailer.dxf
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\unit_of_measure.csv
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\vertcs.csv
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\vertcs.override.csv
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\share\esri.extra
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\share\ntf_r93.gsb
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\share\ntv1_can.dat
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\share\nzgd2kgrid0005.gsb
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\share\other.extra
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\share\proj_def.dat
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\compdcs.csv
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\coordinate_axis.csv
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\cubewerx_extra.wkt
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\datum_shift.csv
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\ecw_cs.wkt
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\ellipsoid.csv
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\epsg.wkt
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\esri_extra.wkt
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\esri_StatePlane_extra.wkt
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\esri_Wisconsin_extra.wkt
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\gcs.csv
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\data\gcs.override.csv
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\BruTile.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\gdalconst_csharp.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\gdal_csharp.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\GeoAPI.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\GeoAPI.Extensions.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\Mono.Security.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\ogr_csharp.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\osr_csharp.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\ProjNet.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\SharpMap.Data.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\SharpMap.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\SharpMap.Extensions.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\SharpMap.Features.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\SharpMap.Layers.HeatLayer.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\SharpMap.Rendering.Gdi.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\SharpMap.Serialization.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\SharpMap.SpatialReference.DotSpatial.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\SharpMap.SpatialReference.ProjNet.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\SharpMap.SqlServerSpatialObjects.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\SharpMap.UI.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\SharpMap.Web.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\Common.Logging.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\BruTile.Desktop.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\NetTopologySuite.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\System.Data.SQLite.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\NetTopologySuite.IO.SpatiaLite.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\Npgsql.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\NetTopologySuite.IO.PostGis.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\DotSpatial.Projections.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\NetTopologySuite.IO.SqlServer2008.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\PowerCollections.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\GeoAPI.Extensions.pdb
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\SharpMap.pdb
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\SharpMap.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\SharpMap.Data.pdb
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\SharpMap.Extensions.pdb
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\SharpMap.Extensions.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\SharpMap.Features.pdb
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\SharpMap.Layers.HeatLayer.pdb
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\SharpMap.Layers.HeatLayer.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\SharpMap.Rendering.Gdi.pdb
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\SharpMap.Serialization.pdb
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\SharpMap.Serialization.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\SharpMap.SpatialReference.DotSpatial.pdb
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\SharpMap.SpatialReference.ProjNet.pdb
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\SharpMap.SqlServerSpatialObjects.pdb
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\SharpMap.SqlServerSpatialObjects.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\SharpMap.UI.pdb
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\SharpMap.UI.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\SharpMap.Web.pdb
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\SharpMap.Web.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\Npgsql.pdb
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\Npgsql.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\DotSpatial.Projections.xml
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\de\Npgsql.resources.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\es\Npgsql.resources.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\fi\Npgsql.resources.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\fr\Npgsql.resources.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\ja\Npgsql.resources.dll
+C:\Users\Chernyavskih.WINDOWSSERVER\Desktop\Илья\agro_proba\agro_proba\bin\zh-CN\Npgsql.resources.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\functions.js
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\resizemap.js
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\ReportsDS.xsc
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\ReportsDS.xss
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\ReportsDS.Designer.cs
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\connection.xml
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\agro_proba.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\agro_proba.pdb
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\plugins\ogr_OCI.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\plugins\netcdf.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\plugins\lti_dsdk.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\plugins\libecwj2.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\plugins\hdf5dll.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\plugins\gdal_netCDF.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\plugins\gdal_MrSID.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\plugins\gdal_HDF5Image.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\plugins\gdal_HDF5.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\plugins\gdal_GMT.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\plugins\gdal_GEOR.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\plugins\gdal_FITS.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\plugins\gdal_ECW_JP2ECW.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\plugins\gdal_BAG.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\plugins\cfitsio.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\plugins\ogr_OCI.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\plugins\netcdf.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\plugins\lti_dsdk.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\plugins\libecwj2.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\plugins\hdf5dll.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\plugins\gdal_netCDF.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\plugins\gdal_MrSID.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\plugins\gdal_HDF5Image.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\plugins\gdal_HDF5.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\plugins\gdal_GMT.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\plugins\gdal_GEOR.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\plugins\gdal_FITS.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\plugins\gdal_ECW_JP2ECW.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\plugins\gdal_BAG.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\plugins\cfitsio.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\zlib1.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\xerces-c_2_8.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\ssleay32.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\spatialite.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\proj.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\osr_wrap.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\openjpeg.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\ogr_wrap.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\msvcr100.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\msvcp100.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\libpq.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\libmysql.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\libexpat.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\libeay32.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\libcurl.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\iconv.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\geos_c.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\gdal_wrap.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\gdalconst_wrap.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\gdal19.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x86\freexl.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\zlib1.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\xerces-c_2_8.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\ssleay32.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\spatialite.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\proj.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\osr_wrap.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\openjpeg.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\ogr_wrap.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\msvcr100.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\msvcp100.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\libpq.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\libmysql.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\libexpat.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\libeay32.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\libcurl.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\iconv.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\geos_c.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\gdal_wrap.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\gdalconst_wrap.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\gdal19.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\x64\freexl.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\share\nad.lst
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\pci_ellips.txt
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\pci_datum.txt
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\nitf_spec.xml
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\GDALLogoGS.svg
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\GDALLogoColor.svg
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\GDALLogoBW.svg
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\gdalicon.png
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\gdal_datum.csv
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\geoccs.csv
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\gt_datum.csv
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\gt_ellips.csv
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\header.dxf
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\nitf_spec.xsd
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\pcs.csv
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\pcs.override.csv
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\prime_meridian.csv
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\projop_wparm.csv
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\s57agencies.csv
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\s57attributes.csv
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\s57attributes_aml.csv
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\s57attributes_iw.csv
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\s57expectedinput.csv
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\s57objectclasses.csv
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\s57objectclasses_aml.csv
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\s57objectclasses_iw.csv
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\seed_2d.dgn
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\seed_3d.dgn
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\stateplane.csv
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\trailer.dxf
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\unit_of_measure.csv
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\vertcs.csv
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\vertcs.override.csv
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\share\esri.extra
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\share\ntf_r93.gsb
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\share\ntv1_can.dat
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\share\nzgd2kgrid0005.gsb
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\share\other.extra
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\share\proj_def.dat
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\compdcs.csv
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\coordinate_axis.csv
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\cubewerx_extra.wkt
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\datum_shift.csv
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\ecw_cs.wkt
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\ellipsoid.csv
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\epsg.wkt
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\esri_extra.wkt
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\esri_StatePlane_extra.wkt
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\esri_Wisconsin_extra.wkt
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\gcs.csv
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\data\gcs.override.csv
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\BruTile.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\Ext.Net.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\Ext.Net.Utilities.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\gdalconst_csharp.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\gdal_csharp.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\GeoAPI.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\GeoAPI.Extensions.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\Microsoft.Web.Infrastructure.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\Mono.Security.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\Newtonsoft.Json.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\ogr_csharp.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\osr_csharp.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\ProjNet.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\SharpMap.Data.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\SharpMap.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\SharpMap.Extensions.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\SharpMap.Features.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\SharpMap.Layers.HeatLayer.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\SharpMap.Rendering.Gdi.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\SharpMap.Serialization.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\SharpMap.SpatialReference.DotSpatial.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\SharpMap.SpatialReference.ProjNet.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\SharpMap.SqlServerSpatialObjects.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\SharpMap.UI.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\SharpMap.Web.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\Transformer.NET.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\WebActivatorEx.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\Common.Logging.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\BruTile.Desktop.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\NetTopologySuite.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\System.Data.SQLite.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\NetTopologySuite.IO.SpatiaLite.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\Npgsql.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\NetTopologySuite.IO.PostGis.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\DotSpatial.Projections.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\NetTopologySuite.IO.SqlServer2008.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\PowerCollections.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\Ext.Net.xml
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\Ext.Net.Utilities.xml
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\GeoAPI.Extensions.pdb
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\Newtonsoft.Json.xml
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\SharpMap.pdb
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\SharpMap.xml
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\SharpMap.Data.pdb
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\SharpMap.Extensions.pdb
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\SharpMap.Extensions.xml
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\SharpMap.Features.pdb
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\SharpMap.Layers.HeatLayer.pdb
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\SharpMap.Layers.HeatLayer.xml
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\SharpMap.Rendering.Gdi.pdb
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\SharpMap.Serialization.pdb
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\SharpMap.Serialization.xml
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\SharpMap.SpatialReference.DotSpatial.pdb
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\SharpMap.SpatialReference.ProjNet.pdb
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\SharpMap.SqlServerSpatialObjects.pdb
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\SharpMap.SqlServerSpatialObjects.xml
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\SharpMap.UI.pdb
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\SharpMap.UI.xml
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\SharpMap.Web.pdb
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\SharpMap.Web.xml
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\Transformer.NET.xml
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\Npgsql.pdb
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\Npgsql.xml
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\DotSpatial.Projections.xml
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\de\Npgsql.resources.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\es\Npgsql.resources.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\fi\Npgsql.resources.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\fr\Npgsql.resources.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\ja\Npgsql.resources.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\bin\zh-CN\Npgsql.resources.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\obj\Release\agro_proba.csprojResolveAssemblyReference.cache
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\obj\Release\agro_proba.g.resources
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\obj\Release\RdlCompile.cache
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\obj\Release\RdlCompile.compiled
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\obj\Release\agro_proba.dll
+D:\!!!!!!!!!!!!! проект Агрохимик\agro_proba\agro_proba\obj\Release\agro_proba.pdb
+D:\Agrochim\agro_proba\agro_proba\bin\functions.js
+D:\Agrochim\agro_proba\agro_proba\bin\js\GridPanel.js
+D:\Agrochim\agro_proba\agro_proba\bin\js\EditStyleUC.js
+D:\Agrochim\agro_proba\agro_proba\bin\js\OLGISMap.js
+D:\Agrochim\agro_proba\agro_proba\bin\resizemap.js
+D:\Agrochim\agro_proba\agro_proba\bin\connection.xml
+D:\Agrochim\agro_proba\agro_proba\bin\js\FunctionStyles.js
+D:\Agrochim\agro_proba\agro_proba\bin\js\jquery-ui.js
+D:\Agrochim\agro_proba\agro_proba\bin\js\jquery-ui.min.js
+D:\Agrochim\agro_proba\agro_proba\bin\js\JSCallBack.js
+D:\Agrochim\agro_proba\agro_proba\bin\js\ol-debug.js
+D:\Agrochim\agro_proba\agro_proba\bin\js\ol.js
+D:\Agrochim\agro_proba\agro_proba\bin\ReportsDS.xsc
+D:\Agrochim\agro_proba\agro_proba\bin\ReportsDS.xss
+D:\Agrochim\agro_proba\agro_proba\bin\ReportsDS.Designer.cs
+D:\Agrochim\agro_proba\agro_proba\bin\agro_proba.dll.config
+D:\Agrochim\agro_proba\agro_proba\bin\agro_proba.dll
+D:\Agrochim\agro_proba\agro_proba\bin\agro_proba.pdb
+D:\Agrochim\agro_proba\agro_proba\bin\x86\plugins\ogr_OCI.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\plugins\netcdf.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\plugins\lti_dsdk.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\plugins\libecwj2.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\plugins\hdf5dll.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\plugins\gdal_netCDF.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\plugins\gdal_MrSID.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\plugins\gdal_HDF5Image.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\plugins\gdal_HDF5.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\plugins\gdal_GMT.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\plugins\gdal_GEOR.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\plugins\gdal_FITS.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\plugins\gdal_ECW_JP2ECW.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\plugins\gdal_BAG.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\plugins\cfitsio.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\plugins\ogr_OCI.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\plugins\netcdf.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\plugins\lti_dsdk.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\plugins\libecwj2.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\plugins\hdf5dll.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\plugins\gdal_netCDF.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\plugins\gdal_MrSID.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\plugins\gdal_HDF5Image.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\plugins\gdal_HDF5.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\plugins\gdal_GMT.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\plugins\gdal_GEOR.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\plugins\gdal_FITS.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\plugins\gdal_ECW_JP2ECW.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\plugins\gdal_BAG.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\plugins\cfitsio.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\zlib1.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\xerces-c_2_8.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\ssleay32.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\spatialite.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\proj.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\osr_wrap.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\openjpeg.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\ogr_wrap.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\msvcr100.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\msvcp100.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\libpq.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\libmysql.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\libexpat.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\libeay32.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\libcurl.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\iconv.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\geos_c.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\gdal_wrap.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\gdalconst_wrap.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\gdal19.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x86\freexl.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\zlib1.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\xerces-c_2_8.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\ssleay32.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\spatialite.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\proj.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\osr_wrap.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\openjpeg.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\ogr_wrap.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\msvcr100.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\msvcp100.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\libpq.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\libmysql.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\libexpat.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\libeay32.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\libcurl.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\iconv.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\geos_c.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\gdal_wrap.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\gdalconst_wrap.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\gdal19.dll
+D:\Agrochim\agro_proba\agro_proba\bin\x64\freexl.dll
+D:\Agrochim\agro_proba\agro_proba\bin\share\nad.lst
+D:\Agrochim\agro_proba\agro_proba\bin\data\pci_ellips.txt
+D:\Agrochim\agro_proba\agro_proba\bin\data\pci_datum.txt
+D:\Agrochim\agro_proba\agro_proba\bin\data\nitf_spec.xml
+D:\Agrochim\agro_proba\agro_proba\bin\data\GDALLogoGS.svg
+D:\Agrochim\agro_proba\agro_proba\bin\data\GDALLogoColor.svg
+D:\Agrochim\agro_proba\agro_proba\bin\data\GDALLogoBW.svg
+D:\Agrochim\agro_proba\agro_proba\bin\data\gdalicon.png
+D:\Agrochim\agro_proba\agro_proba\bin\data\gdal_datum.csv
+D:\Agrochim\agro_proba\agro_proba\bin\data\geoccs.csv
+D:\Agrochim\agro_proba\agro_proba\bin\data\gt_datum.csv
+D:\Agrochim\agro_proba\agro_proba\bin\data\gt_ellips.csv
+D:\Agrochim\agro_proba\agro_proba\bin\data\header.dxf
+D:\Agrochim\agro_proba\agro_proba\bin\data\nitf_spec.xsd
+D:\Agrochim\agro_proba\agro_proba\bin\data\pcs.csv
+D:\Agrochim\agro_proba\agro_proba\bin\data\pcs.override.csv
+D:\Agrochim\agro_proba\agro_proba\bin\data\prime_meridian.csv
+D:\Agrochim\agro_proba\agro_proba\bin\data\projop_wparm.csv
+D:\Agrochim\agro_proba\agro_proba\bin\data\s57agencies.csv
+D:\Agrochim\agro_proba\agro_proba\bin\data\s57attributes.csv
+D:\Agrochim\agro_proba\agro_proba\bin\data\s57attributes_aml.csv
+D:\Agrochim\agro_proba\agro_proba\bin\data\s57attributes_iw.csv
+D:\Agrochim\agro_proba\agro_proba\bin\data\s57expectedinput.csv
+D:\Agrochim\agro_proba\agro_proba\bin\data\s57objectclasses.csv
+D:\Agrochim\agro_proba\agro_proba\bin\data\s57objectclasses_aml.csv
+D:\Agrochim\agro_proba\agro_proba\bin\data\s57objectclasses_iw.csv
+D:\Agrochim\agro_proba\agro_proba\bin\data\seed_2d.dgn
+D:\Agrochim\agro_proba\agro_proba\bin\data\seed_3d.dgn
+D:\Agrochim\agro_proba\agro_proba\bin\data\stateplane.csv
+D:\Agrochim\agro_proba\agro_proba\bin\data\trailer.dxf
+D:\Agrochim\agro_proba\agro_proba\bin\data\unit_of_measure.csv
+D:\Agrochim\agro_proba\agro_proba\bin\data\vertcs.csv
+D:\Agrochim\agro_proba\agro_proba\bin\data\vertcs.override.csv
+D:\Agrochim\agro_proba\agro_proba\bin\share\esri.extra
+D:\Agrochim\agro_proba\agro_proba\bin\share\ntf_r93.gsb
+D:\Agrochim\agro_proba\agro_proba\bin\share\ntv1_can.dat
+D:\Agrochim\agro_proba\agro_proba\bin\share\nzgd2kgrid0005.gsb
+D:\Agrochim\agro_proba\agro_proba\bin\share\other.extra
+D:\Agrochim\agro_proba\agro_proba\bin\share\proj_def.dat
+D:\Agrochim\agro_proba\agro_proba\bin\data\compdcs.csv
+D:\Agrochim\agro_proba\agro_proba\bin\data\coordinate_axis.csv
+D:\Agrochim\agro_proba\agro_proba\bin\data\cubewerx_extra.wkt
+D:\Agrochim\agro_proba\agro_proba\bin\data\datum_shift.csv
+D:\Agrochim\agro_proba\agro_proba\bin\data\ecw_cs.wkt
+D:\Agrochim\agro_proba\agro_proba\bin\data\ellipsoid.csv
+D:\Agrochim\agro_proba\agro_proba\bin\data\epsg.wkt
+D:\Agrochim\agro_proba\agro_proba\bin\data\esri_extra.wkt
+D:\Agrochim\agro_proba\agro_proba\bin\data\esri_StatePlane_extra.wkt
+D:\Agrochim\agro_proba\agro_proba\bin\data\esri_Wisconsin_extra.wkt
+D:\Agrochim\agro_proba\agro_proba\bin\data\gcs.csv
+D:\Agrochim\agro_proba\agro_proba\bin\data\gcs.override.csv
+D:\Agrochim\agro_proba\agro_proba\bin\Ext.Net.dll
+D:\Agrochim\agro_proba\agro_proba\bin\Ext.Net.Utilities.dll
+D:\Agrochim\agro_proba\agro_proba\bin\Microsoft.SqlServer.Types.dll
+D:\Agrochim\agro_proba\agro_proba\bin\Microsoft.Web.Infrastructure.dll
+D:\Agrochim\agro_proba\agro_proba\bin\Newtonsoft.Json.dll
+D:\Agrochim\agro_proba\agro_proba\bin\Transformer.NET.dll
+D:\Agrochim\agro_proba\agro_proba\bin\WebActivatorEx.dll
+D:\Agrochim\agro_proba\agro_proba\bin\Ext.Net.xml
+D:\Agrochim\agro_proba\agro_proba\bin\Ext.Net.Utilities.xml
+D:\Agrochim\agro_proba\agro_proba\bin\Newtonsoft.Json.xml
+D:\Agrochim\agro_proba\agro_proba\bin\Transformer.NET.xml
+D:\Agrochim\agro_proba\agro_proba\bin\de\Microsoft.SqlServer.Types.resources.dll
+D:\Agrochim\agro_proba\agro_proba\bin\es\Microsoft.SqlServer.Types.resources.dll
+D:\Agrochim\agro_proba\agro_proba\bin\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Agrochim\agro_proba\agro_proba\bin\it\Microsoft.SqlServer.Types.resources.dll
+D:\Agrochim\agro_proba\agro_proba\bin\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Agrochim\agro_proba\agro_proba\bin\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Agrochim\agro_proba\agro_proba\bin\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Agrochim\agro_proba\agro_proba\bin\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Agrochim\agro_proba\agro_proba\bin\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Agrochim\agro_proba\agro_proba\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Agrochim\agro_proba\agro_proba\obj\Release\agro_proba.csproj.ResolveComReference.cache
+D:\Agrochim\agro_proba\agro_proba\obj\Release\agro_proba.g.resources
+D:\Agrochim\agro_proba\agro_proba\obj\Release\agro_proba.dll
+D:\Agrochim\agro_proba\agro_proba\obj\Release\agro_proba.pdb
+D:\C#\agro_proba\agro_proba\bin\functions.js
+D:\C#\agro_proba\agro_proba\bin\js\GridPanel.js
+D:\C#\agro_proba\agro_proba\bin\js\EditStyleUC.js
+D:\C#\agro_proba\agro_proba\bin\js\OLGISMap.js
+D:\C#\agro_proba\agro_proba\bin\resizemap.js
+D:\C#\agro_proba\agro_proba\bin\connection.xml
+D:\C#\agro_proba\agro_proba\bin\js\FunctionStyles.js
+D:\C#\agro_proba\agro_proba\bin\js\jquery-ui.js
+D:\C#\agro_proba\agro_proba\bin\js\jquery-ui.min.js
+D:\C#\agro_proba\agro_proba\bin\js\JSCallBack.js
+D:\C#\agro_proba\agro_proba\bin\js\ol-debug.js
+D:\C#\agro_proba\agro_proba\bin\js\ol.js
+D:\C#\agro_proba\agro_proba\bin\ReportsDS.xsc
+D:\C#\agro_proba\agro_proba\bin\ReportsDS.xss
+D:\C#\agro_proba\agro_proba\bin\ReportsDS.Designer.cs
+D:\C#\agro_proba\agro_proba\bin\agro_proba.dll.config
+D:\C#\agro_proba\agro_proba\bin\agro_proba.dll
+D:\C#\agro_proba\agro_proba\bin\agro_proba.pdb
+D:\C#\agro_proba\agro_proba\bin\x86\plugins\ogr_OCI.dll
+D:\C#\agro_proba\agro_proba\bin\x86\plugins\netcdf.dll
+D:\C#\agro_proba\agro_proba\bin\x86\plugins\lti_dsdk.dll
+D:\C#\agro_proba\agro_proba\bin\x86\plugins\libecwj2.dll
+D:\C#\agro_proba\agro_proba\bin\x86\plugins\hdf5dll.dll
+D:\C#\agro_proba\agro_proba\bin\x86\plugins\gdal_netCDF.dll
+D:\C#\agro_proba\agro_proba\bin\x86\plugins\gdal_MrSID.dll
+D:\C#\agro_proba\agro_proba\bin\x86\plugins\gdal_HDF5Image.dll
+D:\C#\agro_proba\agro_proba\bin\x86\plugins\gdal_HDF5.dll
+D:\C#\agro_proba\agro_proba\bin\x86\plugins\gdal_GMT.dll
+D:\C#\agro_proba\agro_proba\bin\x86\plugins\gdal_GEOR.dll
+D:\C#\agro_proba\agro_proba\bin\x86\plugins\gdal_FITS.dll
+D:\C#\agro_proba\agro_proba\bin\x86\plugins\gdal_ECW_JP2ECW.dll
+D:\C#\agro_proba\agro_proba\bin\x86\plugins\gdal_BAG.dll
+D:\C#\agro_proba\agro_proba\bin\x86\plugins\cfitsio.dll
+D:\C#\agro_proba\agro_proba\bin\x64\plugins\ogr_OCI.dll
+D:\C#\agro_proba\agro_proba\bin\x64\plugins\netcdf.dll
+D:\C#\agro_proba\agro_proba\bin\x64\plugins\lti_dsdk.dll
+D:\C#\agro_proba\agro_proba\bin\x64\plugins\libecwj2.dll
+D:\C#\agro_proba\agro_proba\bin\x64\plugins\hdf5dll.dll
+D:\C#\agro_proba\agro_proba\bin\x64\plugins\gdal_netCDF.dll
+D:\C#\agro_proba\agro_proba\bin\x64\plugins\gdal_MrSID.dll
+D:\C#\agro_proba\agro_proba\bin\x64\plugins\gdal_HDF5Image.dll
+D:\C#\agro_proba\agro_proba\bin\x64\plugins\gdal_HDF5.dll
+D:\C#\agro_proba\agro_proba\bin\x64\plugins\gdal_GMT.dll
+D:\C#\agro_proba\agro_proba\bin\x64\plugins\gdal_GEOR.dll
+D:\C#\agro_proba\agro_proba\bin\x64\plugins\gdal_FITS.dll
+D:\C#\agro_proba\agro_proba\bin\x64\plugins\gdal_ECW_JP2ECW.dll
+D:\C#\agro_proba\agro_proba\bin\x64\plugins\gdal_BAG.dll
+D:\C#\agro_proba\agro_proba\bin\x64\plugins\cfitsio.dll
+D:\C#\agro_proba\agro_proba\bin\x86\zlib1.dll
+D:\C#\agro_proba\agro_proba\bin\x86\xerces-c_2_8.dll
+D:\C#\agro_proba\agro_proba\bin\x86\ssleay32.dll
+D:\C#\agro_proba\agro_proba\bin\x86\spatialite.dll
+D:\C#\agro_proba\agro_proba\bin\x86\proj.dll
+D:\C#\agro_proba\agro_proba\bin\x86\osr_wrap.dll
+D:\C#\agro_proba\agro_proba\bin\x86\openjpeg.dll
+D:\C#\agro_proba\agro_proba\bin\x86\ogr_wrap.dll
+D:\C#\agro_proba\agro_proba\bin\x86\msvcr100.dll
+D:\C#\agro_proba\agro_proba\bin\x86\msvcp100.dll
+D:\C#\agro_proba\agro_proba\bin\x86\libpq.dll
+D:\C#\agro_proba\agro_proba\bin\x86\libmysql.dll
+D:\C#\agro_proba\agro_proba\bin\x86\libexpat.dll
+D:\C#\agro_proba\agro_proba\bin\x86\libeay32.dll
+D:\C#\agro_proba\agro_proba\bin\x86\libcurl.dll
+D:\C#\agro_proba\agro_proba\bin\x86\iconv.dll
+D:\C#\agro_proba\agro_proba\bin\x86\geos_c.dll
+D:\C#\agro_proba\agro_proba\bin\x86\gdal_wrap.dll
+D:\C#\agro_proba\agro_proba\bin\x86\gdalconst_wrap.dll
+D:\C#\agro_proba\agro_proba\bin\x86\gdal19.dll
+D:\C#\agro_proba\agro_proba\bin\x86\freexl.dll
+D:\C#\agro_proba\agro_proba\bin\x64\zlib1.dll
+D:\C#\agro_proba\agro_proba\bin\x64\xerces-c_2_8.dll
+D:\C#\agro_proba\agro_proba\bin\x64\ssleay32.dll
+D:\C#\agro_proba\agro_proba\bin\x64\spatialite.dll
+D:\C#\agro_proba\agro_proba\bin\x64\proj.dll
+D:\C#\agro_proba\agro_proba\bin\x64\osr_wrap.dll
+D:\C#\agro_proba\agro_proba\bin\x64\openjpeg.dll
+D:\C#\agro_proba\agro_proba\bin\x64\ogr_wrap.dll
+D:\C#\agro_proba\agro_proba\bin\x64\msvcr100.dll
+D:\C#\agro_proba\agro_proba\bin\x64\msvcp100.dll
+D:\C#\agro_proba\agro_proba\bin\x64\libpq.dll
+D:\C#\agro_proba\agro_proba\bin\x64\libmysql.dll
+D:\C#\agro_proba\agro_proba\bin\x64\libexpat.dll
+D:\C#\agro_proba\agro_proba\bin\x64\libeay32.dll
+D:\C#\agro_proba\agro_proba\bin\x64\libcurl.dll
+D:\C#\agro_proba\agro_proba\bin\x64\iconv.dll
+D:\C#\agro_proba\agro_proba\bin\x64\geos_c.dll
+D:\C#\agro_proba\agro_proba\bin\x64\gdal_wrap.dll
+D:\C#\agro_proba\agro_proba\bin\x64\gdalconst_wrap.dll
+D:\C#\agro_proba\agro_proba\bin\x64\gdal19.dll
+D:\C#\agro_proba\agro_proba\bin\x64\freexl.dll
+D:\C#\agro_proba\agro_proba\bin\share\nad.lst
+D:\C#\agro_proba\agro_proba\bin\data\pci_ellips.txt
+D:\C#\agro_proba\agro_proba\bin\data\pci_datum.txt
+D:\C#\agro_proba\agro_proba\bin\data\nitf_spec.xml
+D:\C#\agro_proba\agro_proba\bin\data\GDALLogoGS.svg
+D:\C#\agro_proba\agro_proba\bin\data\GDALLogoColor.svg
+D:\C#\agro_proba\agro_proba\bin\data\GDALLogoBW.svg
+D:\C#\agro_proba\agro_proba\bin\data\gdalicon.png
+D:\C#\agro_proba\agro_proba\bin\data\gdal_datum.csv
+D:\C#\agro_proba\agro_proba\bin\data\geoccs.csv
+D:\C#\agro_proba\agro_proba\bin\data\gt_datum.csv
+D:\C#\agro_proba\agro_proba\bin\data\gt_ellips.csv
+D:\C#\agro_proba\agro_proba\bin\data\header.dxf
+D:\C#\agro_proba\agro_proba\bin\data\nitf_spec.xsd
+D:\C#\agro_proba\agro_proba\bin\data\pcs.csv
+D:\C#\agro_proba\agro_proba\bin\data\pcs.override.csv
+D:\C#\agro_proba\agro_proba\bin\data\prime_meridian.csv
+D:\C#\agro_proba\agro_proba\bin\data\projop_wparm.csv
+D:\C#\agro_proba\agro_proba\bin\data\s57agencies.csv
+D:\C#\agro_proba\agro_proba\bin\data\s57attributes.csv
+D:\C#\agro_proba\agro_proba\bin\data\s57attributes_aml.csv
+D:\C#\agro_proba\agro_proba\bin\data\s57attributes_iw.csv
+D:\C#\agro_proba\agro_proba\bin\data\s57expectedinput.csv
+D:\C#\agro_proba\agro_proba\bin\data\s57objectclasses.csv
+D:\C#\agro_proba\agro_proba\bin\data\s57objectclasses_aml.csv
+D:\C#\agro_proba\agro_proba\bin\data\s57objectclasses_iw.csv
+D:\C#\agro_proba\agro_proba\bin\data\seed_2d.dgn
+D:\C#\agro_proba\agro_proba\bin\data\seed_3d.dgn
+D:\C#\agro_proba\agro_proba\bin\data\stateplane.csv
+D:\C#\agro_proba\agro_proba\bin\data\trailer.dxf
+D:\C#\agro_proba\agro_proba\bin\data\unit_of_measure.csv
+D:\C#\agro_proba\agro_proba\bin\data\vertcs.csv
+D:\C#\agro_proba\agro_proba\bin\data\vertcs.override.csv
+D:\C#\agro_proba\agro_proba\bin\share\esri.extra
+D:\C#\agro_proba\agro_proba\bin\share\ntf_r93.gsb
+D:\C#\agro_proba\agro_proba\bin\share\ntv1_can.dat
+D:\C#\agro_proba\agro_proba\bin\share\nzgd2kgrid0005.gsb
+D:\C#\agro_proba\agro_proba\bin\share\other.extra
+D:\C#\agro_proba\agro_proba\bin\share\proj_def.dat
+D:\C#\agro_proba\agro_proba\bin\data\compdcs.csv
+D:\C#\agro_proba\agro_proba\bin\data\coordinate_axis.csv
+D:\C#\agro_proba\agro_proba\bin\data\cubewerx_extra.wkt
+D:\C#\agro_proba\agro_proba\bin\data\datum_shift.csv
+D:\C#\agro_proba\agro_proba\bin\data\ecw_cs.wkt
+D:\C#\agro_proba\agro_proba\bin\data\ellipsoid.csv
+D:\C#\agro_proba\agro_proba\bin\data\epsg.wkt
+D:\C#\agro_proba\agro_proba\bin\data\esri_extra.wkt
+D:\C#\agro_proba\agro_proba\bin\data\esri_StatePlane_extra.wkt
+D:\C#\agro_proba\agro_proba\bin\data\esri_Wisconsin_extra.wkt
+D:\C#\agro_proba\agro_proba\bin\data\gcs.csv
+D:\C#\agro_proba\agro_proba\bin\data\gcs.override.csv
+D:\C#\agro_proba\agro_proba\bin\Ext.Net.dll
+D:\C#\agro_proba\agro_proba\bin\Ext.Net.Utilities.dll
+D:\C#\agro_proba\agro_proba\bin\Microsoft.SqlServer.Types.dll
+D:\C#\agro_proba\agro_proba\bin\Microsoft.Web.Infrastructure.dll
+D:\C#\agro_proba\agro_proba\bin\Newtonsoft.Json.dll
+D:\C#\agro_proba\agro_proba\bin\Transformer.NET.dll
+D:\C#\agro_proba\agro_proba\bin\WebActivatorEx.dll
+D:\C#\agro_proba\agro_proba\bin\Ext.Net.xml
+D:\C#\agro_proba\agro_proba\bin\Ext.Net.Utilities.xml
+D:\C#\agro_proba\agro_proba\bin\Newtonsoft.Json.xml
+D:\C#\agro_proba\agro_proba\bin\Transformer.NET.xml
+D:\C#\agro_proba\agro_proba\bin\de\Microsoft.SqlServer.Types.resources.dll
+D:\C#\agro_proba\agro_proba\bin\es\Microsoft.SqlServer.Types.resources.dll
+D:\C#\agro_proba\agro_proba\bin\fr\Microsoft.SqlServer.Types.resources.dll
+D:\C#\agro_proba\agro_proba\bin\it\Microsoft.SqlServer.Types.resources.dll
+D:\C#\agro_proba\agro_proba\bin\ja\Microsoft.SqlServer.Types.resources.dll
+D:\C#\agro_proba\agro_proba\bin\ko\Microsoft.SqlServer.Types.resources.dll
+D:\C#\agro_proba\agro_proba\bin\pt\Microsoft.SqlServer.Types.resources.dll
+D:\C#\agro_proba\agro_proba\bin\ru\Microsoft.SqlServer.Types.resources.dll
+D:\C#\agro_proba\agro_proba\bin\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\C#\agro_proba\agro_proba\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\C#\agro_proba\agro_proba\obj\Release\agro_proba.csproj.ResolveComReference.cache
+D:\C#\agro_proba\agro_proba\obj\Release\agro_proba.g.resources
+D:\C#\agro_proba\agro_proba\obj\Release\RdlCompile.cache
+D:\C#\agro_proba\agro_proba\obj\Release\RdlCompile.compiled
+D:\C#\agro_proba\agro_proba\obj\Release\agro_proba.dll
+D:\C#\agro_proba\agro_proba\obj\Release\agro_proba.pdb
+d:\VS\source\repos\agro_proba\agro_proba\obj\Release\agro_proba.csprojAssemblyReference.cache
+d:\VS\source\repos\agro_proba\agro_proba\obj\Release\agro_proba.csproj.ResolveComReference.cache
+d:\VS\source\repos\agro_proba\agro_proba\obj\Release\agro_proba.g.resources
+d:\VS\source\repos\agro_proba\agro_proba\obj\Release\agro_proba.dll
+d:\VS\source\repos\agro_proba\agro_proba\obj\Release\agro_proba.pdb

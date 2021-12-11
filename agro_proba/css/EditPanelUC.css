@@ -1,0 +1,62 @@
+﻿#EditPanel{ 
+    padding: 5px 5px 5px 10px; 
+    z-index:10; 
+    margin: 60px 10px 10px 50px; 
+    position:absolute; 
+    opacity: 0.7;
+    
+}
+.editpanelicons{
+    width: 24px;
+    height: 24px;
+    margin: 3px;
+    padding: 0px;
+    background-repeat: no-repeat;
+    background-image: url(images/editpanel-images.png);
+    float: left;
+}
+.editpanelicons-cursor{
+    background-position: 0 0px;
+}
+
+.editpanelicons-editing{
+    background-position: 0 -25px;
+}
+
+.editpanelicons-additing{
+    background-position: 0 -50px;
+}
+
+.editpanelicons-point{
+    background-position: 0 -75px;
+}
+
+.editpanelicons-linestring{
+    background-position: 0 -100px;
+}
+
+.editpanelicons-polygon{
+    background-position: 0 -125px;
+}
+
+.editpanelicons-hand{
+    background-position: 0 -150px;
+}
+
+.editpanelicons-delete{
+    width: 26px;
+    height: 26px;
+    background-position: 0 -175px;
+}
+
+.editpanelicons-save{
+    width: 26px;
+    height: 26px;
+    background-position: 0 -200px;
+}
+
+.editpanelicons-cancel{
+    width: 26px;
+    height: 26px;
+    background-position: 0 -225px;
+}

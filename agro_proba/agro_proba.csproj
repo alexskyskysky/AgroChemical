@@ -1,0 +1,1097 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9E27CD4C-DD13-49B4-B025-BCBF7279120E}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>agro_proba</RootNamespace>
+    <AssemblyName>agro_proba</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Ext.Net, Version=2.5.2.10697, Culture=neutral, PublicKeyToken=2e12ce3d0176cd87, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Ext.NET.2.5.2\lib\net45\Ext.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="Ext.Net.Utilities, Version=2.4.0.0, Culture=neutral, PublicKeyToken=2c34ac34702a3c23, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Ext.NET.Utilities.2.4.0\lib\Ext.Net.Utilities.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.Types, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\Microsoft SQL Server\130\SDK\Assemblies\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\SharpMap.Extensions\Mono.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Newtonsoft.Json.6.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="Transformer.NET">
+      <HintPath>..\packages\Transformer.NET.2.1.1\lib\net35\Transformer.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="WebActivatorEx, Version=2.0.0.0, Culture=neutral, PublicKeyToken=7b26dc2a43f6a0d4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\WebActivatorEx.2.0.5\lib\net40\WebActivatorEx.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Readme\Ext.NET.Utilities\BREAKING_CHANGES.txt" />
+    <Content Include="App_Readme\Ext.NET.Utilities\LICENSE.txt" />
+    <Content Include="App_Readme\Ext.NET.Utilities\README.txt" />
+    <Content Include="App_Readme\Ext.NET\BREAKING_CHANGES.txt" />
+    <Content Include="App_Readme\Ext.NET\CHANGELOG.txt" />
+    <Content Include="App_Readme\Ext.NET\LICENSE.txt" />
+    <Content Include="App_Readme\Ext.NET\README.txt" />
+    <Content Include="App_Readme\Transformer.NET\LICENSE.txt" />
+    <Content Include="App_Readme\Transformer.NET\README.txt" />
+    <Content Include="connection.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="css\EditPanelUC.css" />
+    <Content Include="css\GridPanel.css" />
+    <Content Include="css\images\buttons.png" />
+    <Content Include="css\images\editpanel-images.png" />
+    <Content Include="css\images\gridpanel-images.png" />
+    <Content Include="css\images\measurepanel-images.png" />
+    <Content Include="css\images\ui-icons_444444_256x240.png" />
+    <Content Include="css\images\ui-icons_555555_256x240.png" />
+    <Content Include="css\images\ui-icons_777620_256x240.png" />
+    <Content Include="css\images\ui-icons_777777_256x240.png" />
+    <Content Include="css\images\ui-icons_cc0000_256x240.png" />
+    <Content Include="css\images\ui-icons_ffffff_256x240.png" />
+    <Content Include="css\jquery-ui.css" />
+    <Content Include="css\jquery-ui.min.css" />
+    <Content Include="css\jquery-ui.structure.css" />
+    <Content Include="css\jquery-ui.structure.min.css" />
+    <Content Include="css\jquery-ui.theme.css" />
+    <Content Include="css\jquery-ui.theme.min.css" />
+    <Content Include="css\jsgrid-theme.css" />
+    <Content Include="css\jsgrid.css" />
+    <Content Include="css\loadingmask.css" />
+    <Content Include="css\Measure.css" />
+    <Content Include="css\ol.css" />
+    <Content Include="css\OLGISMap.css" />
+    <Content Include="EditPanelUC.ascx" />
+    <Content Include="EditStyleUC.ascx" />
+    <Content Include="Ext.NET.Default.aspx" />
+    <Content Include="Contracts.aspx" />
+    <Content Include="FertilizerProtocols.aspx" />
+    <Content Include="FileUpload.aspx" />
+    <Content Include="functions.js">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\broom.png" />
+    <Content Include="images\hide_measure.png" />
+    <Content Include="images\icon.jpeg" />
+    <Content Include="images\icon_center_down.png" />
+    <Content Include="images\icon_center_up.png" />
+    <Content Include="images\icon_legend_down.png" />
+    <Content Include="images\icon_legend_up.png" />
+    <Content Include="images\icon_measure.png" />
+    <Content Include="images\icon_org_down.png" />
+    <Content Include="images\icon_org_up.png" />
+    <Content Include="images\icon_plot_down.png" />
+    <Content Include="images\icon_plot_up.png" />
+    <Content Include="images\icon_point_down.png" />
+    <Content Include="images\icon_point_up.png" />
+    <Content Include="images\point1.png" />
+    <Content Include="images\point2.png" />
+    <Content Include="images\point3.png" />
+    <Content Include="images\tree_down.png" />
+    <Content Include="images\tree_up.png" />
+    <Content Include="index.aspx" />
+    <Content Include="js\Contracts.js" />
+    <Content Include="js\dropdownpanel-1.0.js" />
+    <Content Include="js\EditPanelUC.js" />
+    <Content Include="js\FunctionStyles.js">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="js\GridPanel.js">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="js\jquery-3.1.1.js" />
+    <Content Include="js\jquery-3.1.1.min.js" />
+    <Content Include="js\jquery-ui.js">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="js\jquery-ui.min.js">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="js\JSCallBack.js">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="js\jsgrid-ru.js" />
+    <Content Include="js\jsgrid.js" />
+    <Content Include="js\loadingmask.js" />
+    <Content Include="js\Measure.js" />
+    <Content Include="js\ol-debug.js">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="js\ol.js">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="js\EditStyleUC.js">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="js\proj4-src.js" />
+    <Content Include="js\proj4.js" />
+    <Content Include="js\OLGISMap.js">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="maps\cities.DBF" />
+    <Content Include="maps\cities.prj" />
+    <Content Include="maps\cities.SHP" />
+    <Content Include="maps\cities.shp.sidx" />
+    <Content Include="maps\cities.SHX" />
+    <Content Include="maps\countries.dbf" />
+    <Content Include="maps\countries.prj" />
+    <Content Include="maps\countries.shp" />
+    <Content Include="maps\countries.shp.sidx" />
+    <Content Include="maps\countries.shx" />
+    <Content Include="maps\obl.dbf" />
+    <Content Include="maps\obl.prj" />
+    <Content Include="maps\obl.sbn" />
+    <Content Include="maps\obl.sbx" />
+    <Content Include="maps\obl.shp" />
+    <Content Include="maps\obl.shp.sidx" />
+    <Content Include="maps\obl.shp.xml" />
+    <Content Include="maps\obl.shx" />
+    <Content Include="MeasureUC.ascx" />
+    <Content Include="OLGISMap.aspx" />
+    <Content Include="OLGISMapService.asmx" />
+    <Content Include="ReportCultureHybridByPlantations.aspx" />
+    <Content Include="ReportOrganicFertilizerSurplus.aspx" />
+    <Content Include="ReportErosionChangeSelectedPlots.aspx" />
+    <Content Include="ReportErosionChangeOrganization.aspx" />
+    <Content Include="ReportCulturesRegion.aspx" />
+    <Content Include="ReportFertilizerFromOrganization.aspx" />
+    <Content Include="ReportDiseases.aspx" />
+    <Content Include="ReportMacroStatisticsForOrganization.aspx" />
+    <Content Include="ReportMacroStatisticsForSelectedPlots.aspx" />
+    <Content Include="ReportMacroStatisticsForRegion.aspx" />
+    <Content Include="ReportWeediness.aspx" />
+    <Content Include="ReportPests.aspx" />
+    <Content Include="ReportResultsProtocolsStatistics.aspx" />
+    <Content Include="ReportFertilizerProtocol.aspx" />
+    <Content Include="ReportFertilizerProtocols.aspx" />
+    <Content Include="ReportProductivityOrganization.aspx" />
+    <Content Include="ReportPasport.aspx" />
+    <Content Include="ReportPlan.aspx" />
+    <Content Include="ReportPlanMission.aspx" />
+    <Content Include="ReportPlanRegion.aspx" />
+    <Content Include="ReportPlanWorker.aspx" />
+    <Content Include="ReportUsingWateringTypeFarmlandRegion.aspx" />
+    <Content Include="ReportProductivityRegion.aspx" />
+    <Content Include="ReportSignificativeBySlopeDepartment.aspx" />
+    <Content Include="ReportCulturesOrganization.aspx" />
+    <Content Include="ReportSignificativeBySlopeOrganization.aspx" />
+    <Content Include="Report_analys_control_P_K.aspx" />
+    <Content Include="Report_analys_P_K.aspx" />
+    <Content Include="resizemap.js">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="swfupload\swfupload.swf" />
+    <Content Include="TestJS.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="ReportSignificativeBySoilOrganization.aspx" />
+    <Content Include="ReportPriorityCalcificationOrganization.aspx" />
+    <Content Include="ReportSignificativeBySoilRegion.aspx" />
+    <Content Include="ReportHeavyMetalBySoilRegion.aspx" />
+    <Content Include="ReportHeavyMetalBySoilOrganization.aspx" />
+    <Content Include="Report_analys_pH.aspx" />
+    <Content Include="Report_analys_control_pH.aspx" />
+    <Content Include="Report_analys_HA.aspx" />
+    <Content Include="Report_analys_control_HA.aspx" />
+    <Content Include="Report_On_The_Plan.aspx" />
+    <Content Include="ReportPlanNull.aspx" />
+    <Content Include="ReportSignificativeBySoilTerritory.aspx" />
+    <Content Include="ReportHeavyMetalBySoilTerritory.aspx" />
+    <Content Include="ReportDriver.aspx" />
+    <Content Include="ReportSignificativeBySoilMoscow.aspx" />
+    <Content Include="ReportStickers.aspx" />
+    <Content Include="ReportForm1.aspx" />
+    <Content Include="ReportForm2.aspx" />
+    <Content Include="ReportSignificativeBySoilMoscowYear.aspx" />
+    <Content Include="ReportSignificativeBySoilDepartment.aspx" />
+    <Content Include="GEORSSHandler.ashx" />
+    <Content Include="ReportPriorityCalcificationDepartment.aspx" />
+    <Content Include="ReportSignificativeBySoilRegionAddition.aspx" />
+    <Content Include="ReportSignificativeBySoilOrganizationAddition.aspx" />
+    <Content Include="ReportSignificativeBySoilDepartmentAddition.aspx" />
+    <Content Include="TestJS_new.aspx" />
+    <Content Include="Template\АХ.dotx" />
+    <Content Include="Template\ПЭ.dotx" />
+    <None Include="_bin_deployableAssemblies\x86\plugins\ogr_OCI.dll" />
+    <None Include="_bin_deployableAssemblies\x86\plugins\netcdf.dll" />
+    <None Include="_bin_deployableAssemblies\x86\plugins\lti_dsdk.dll" />
+    <None Include="_bin_deployableAssemblies\x86\plugins\libecwj2.dll" />
+    <None Include="_bin_deployableAssemblies\x86\plugins\hdf5dll.dll" />
+    <None Include="_bin_deployableAssemblies\x86\plugins\gdal_netCDF.dll" />
+    <None Include="_bin_deployableAssemblies\x86\plugins\gdal_MrSID.dll" />
+    <None Include="_bin_deployableAssemblies\x86\plugins\gdal_HDF5Image.dll" />
+    <None Include="_bin_deployableAssemblies\x86\plugins\gdal_HDF5.dll" />
+    <None Include="_bin_deployableAssemblies\x86\plugins\gdal_GMT.dll" />
+    <None Include="_bin_deployableAssemblies\x86\plugins\gdal_GEOR.dll" />
+    <None Include="_bin_deployableAssemblies\x86\plugins\gdal_FITS.dll" />
+    <None Include="_bin_deployableAssemblies\x86\plugins\gdal_ECW_JP2ECW.dll" />
+    <None Include="_bin_deployableAssemblies\x86\plugins\gdal_BAG.dll" />
+    <None Include="_bin_deployableAssemblies\x86\plugins\cfitsio.dll" />
+    <None Include="_bin_deployableAssemblies\x64\plugins\ogr_OCI.dll" />
+    <None Include="_bin_deployableAssemblies\x64\plugins\netcdf.dll" />
+    <None Include="_bin_deployableAssemblies\x64\plugins\lti_dsdk.dll" />
+    <None Include="_bin_deployableAssemblies\x64\plugins\libecwj2.dll" />
+    <None Include="_bin_deployableAssemblies\x64\plugins\hdf5dll.dll" />
+    <None Include="_bin_deployableAssemblies\x64\plugins\gdal_netCDF.dll" />
+    <None Include="_bin_deployableAssemblies\x64\plugins\gdal_MrSID.dll" />
+    <None Include="_bin_deployableAssemblies\x64\plugins\gdal_HDF5Image.dll" />
+    <None Include="_bin_deployableAssemblies\x64\plugins\gdal_HDF5.dll" />
+    <None Include="_bin_deployableAssemblies\x64\plugins\gdal_GMT.dll" />
+    <None Include="_bin_deployableAssemblies\x64\plugins\gdal_GEOR.dll" />
+    <None Include="_bin_deployableAssemblies\x64\plugins\gdal_FITS.dll" />
+    <None Include="_bin_deployableAssemblies\x64\plugins\gdal_ECW_JP2ECW.dll" />
+    <None Include="_bin_deployableAssemblies\x64\plugins\gdal_BAG.dll" />
+    <None Include="_bin_deployableAssemblies\x64\plugins\cfitsio.dll" />
+    <None Include="_bin_deployableAssemblies\x86\zlib1.dll" />
+    <None Include="_bin_deployableAssemblies\x86\xerces-c_2_8.dll" />
+    <None Include="_bin_deployableAssemblies\x86\ssleay32.dll" />
+    <None Include="_bin_deployableAssemblies\x86\spatialite.dll" />
+    <None Include="_bin_deployableAssemblies\x86\proj.dll" />
+    <None Include="_bin_deployableAssemblies\x86\osr_wrap.dll" />
+    <None Include="_bin_deployableAssemblies\x86\openjpeg.dll" />
+    <None Include="_bin_deployableAssemblies\x86\ogr_wrap.dll" />
+    <None Include="_bin_deployableAssemblies\x86\msvcr100.dll" />
+    <None Include="_bin_deployableAssemblies\x86\msvcp100.dll" />
+    <None Include="_bin_deployableAssemblies\x86\libpq.dll" />
+    <None Include="_bin_deployableAssemblies\x86\libmysql.dll" />
+    <None Include="_bin_deployableAssemblies\x86\libexpat.dll" />
+    <None Include="_bin_deployableAssemblies\x86\libeay32.dll" />
+    <None Include="_bin_deployableAssemblies\x86\libcurl.dll" />
+    <None Include="_bin_deployableAssemblies\x86\iconv.dll" />
+    <None Include="_bin_deployableAssemblies\x86\geos_c.dll" />
+    <None Include="_bin_deployableAssemblies\x86\gdal_wrap.dll" />
+    <None Include="_bin_deployableAssemblies\x86\gdalconst_wrap.dll" />
+    <None Include="_bin_deployableAssemblies\x86\gdal19.dll" />
+    <None Include="_bin_deployableAssemblies\x86\freexl.dll" />
+    <None Include="_bin_deployableAssemblies\x64\zlib1.dll" />
+    <None Include="_bin_deployableAssemblies\x64\xerces-c_2_8.dll" />
+    <None Include="_bin_deployableAssemblies\x64\ssleay32.dll" />
+    <None Include="_bin_deployableAssemblies\x64\spatialite.dll" />
+    <None Include="_bin_deployableAssemblies\x64\proj.dll" />
+    <None Include="_bin_deployableAssemblies\x64\osr_wrap.dll" />
+    <None Include="_bin_deployableAssemblies\x64\openjpeg.dll" />
+    <None Include="_bin_deployableAssemblies\x64\ogr_wrap.dll" />
+    <None Include="_bin_deployableAssemblies\x64\msvcr100.dll" />
+    <None Include="_bin_deployableAssemblies\x64\msvcp100.dll" />
+    <None Include="_bin_deployableAssemblies\x64\libpq.dll" />
+    <None Include="_bin_deployableAssemblies\x64\libmysql.dll" />
+    <None Include="_bin_deployableAssemblies\x64\libexpat.dll" />
+    <None Include="_bin_deployableAssemblies\x64\libeay32.dll" />
+    <None Include="_bin_deployableAssemblies\x64\libcurl.dll" />
+    <None Include="_bin_deployableAssemblies\x64\iconv.dll" />
+    <None Include="_bin_deployableAssemblies\x64\geos_c.dll" />
+    <None Include="_bin_deployableAssemblies\x64\gdal_wrap.dll" />
+    <None Include="_bin_deployableAssemblies\x64\gdalconst_wrap.dll" />
+    <None Include="_bin_deployableAssemblies\x64\gdal19.dll" />
+    <None Include="_bin_deployableAssemblies\x64\freexl.dll" />
+    <None Include="_bin_deployableAssemblies\share\nad.lst" />
+    <None Include="_bin_deployableAssemblies\data\pci_ellips.txt" />
+    <None Include="_bin_deployableAssemblies\data\pci_datum.txt" />
+    <None Include="_bin_deployableAssemblies\data\nitf_spec.xml" />
+    <None Include="_bin_deployableAssemblies\data\GDALLogoGS.svg" />
+    <None Include="_bin_deployableAssemblies\data\GDALLogoColor.svg" />
+    <None Include="_bin_deployableAssemblies\data\GDALLogoBW.svg" />
+    <None Include="_bin_deployableAssemblies\data\gdalicon.png" />
+    <None Include="_bin_deployableAssemblies\data\gdal_datum.csv" />
+    <None Include="_bin_deployableAssemblies\data\geoccs.csv" />
+    <None Include="_bin_deployableAssemblies\data\gt_datum.csv" />
+    <None Include="_bin_deployableAssemblies\data\gt_ellips.csv" />
+    <None Include="_bin_deployableAssemblies\data\header.dxf" />
+    <None Include="_bin_deployableAssemblies\data\nitf_spec.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_bin_deployableAssemblies\data\pcs.csv" />
+    <None Include="_bin_deployableAssemblies\data\pcs.override.csv" />
+    <None Include="_bin_deployableAssemblies\data\prime_meridian.csv" />
+    <None Include="_bin_deployableAssemblies\data\projop_wparm.csv" />
+    <None Include="_bin_deployableAssemblies\data\s57agencies.csv" />
+    <None Include="_bin_deployableAssemblies\data\s57attributes.csv" />
+    <None Include="_bin_deployableAssemblies\data\s57attributes_aml.csv" />
+    <None Include="_bin_deployableAssemblies\data\s57attributes_iw.csv" />
+    <None Include="_bin_deployableAssemblies\data\s57expectedinput.csv" />
+    <None Include="_bin_deployableAssemblies\data\s57objectclasses.csv" />
+    <None Include="_bin_deployableAssemblies\data\s57objectclasses_aml.csv" />
+    <None Include="_bin_deployableAssemblies\data\s57objectclasses_iw.csv" />
+    <None Include="_bin_deployableAssemblies\data\seed_2d.dgn" />
+    <None Include="_bin_deployableAssemblies\data\seed_3d.dgn" />
+    <None Include="_bin_deployableAssemblies\data\stateplane.csv" />
+    <None Include="_bin_deployableAssemblies\data\trailer.dxf" />
+    <None Include="_bin_deployableAssemblies\data\unit_of_measure.csv" />
+    <None Include="_bin_deployableAssemblies\data\vertcs.csv" />
+    <None Include="_bin_deployableAssemblies\data\vertcs.override.csv" />
+    <None Include="_bin_deployableAssemblies\share\esri.extra" />
+    <None Include="_bin_deployableAssemblies\share\ntf_r93.gsb" />
+    <None Include="_bin_deployableAssemblies\share\ntv1_can.dat" />
+    <None Include="_bin_deployableAssemblies\share\nzgd2kgrid0005.gsb" />
+    <None Include="_bin_deployableAssemblies\share\other.extra" />
+    <None Include="_bin_deployableAssemblies\share\proj_def.dat" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EditPanelUC.ascx.cs">
+      <DependentUpon>EditPanelUC.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditPanelUC.ascx.designer.cs">
+      <DependentUpon>EditPanelUC.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="EditStyleUC.ascx.cs">
+      <DependentUpon>EditStyleUC.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditStyleUC.ascx.designer.cs">
+      <DependentUpon>EditStyleUC.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Contracts.aspx.cs">
+      <DependentUpon>Contracts.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contracts.aspx.designer.cs">
+      <DependentUpon>Contracts.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FertilizerProtocols.aspx.cs">
+      <DependentUpon>FertilizerProtocols.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FertilizerProtocols.aspx.designer.cs">
+      <DependentUpon>FertilizerProtocols.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FileUpload.aspx.cs">
+      <DependentUpon>FileUpload.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FileUpload.aspx.designer.cs">
+      <DependentUpon>FileUpload.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GEORSSHandler.ashx.cs">
+      <DependentUpon>GEORSSHandler.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="MeasureUC.ascx.cs">
+      <DependentUpon>MeasureUC.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MeasureUC.ascx.designer.cs">
+      <DependentUpon>MeasureUC.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="OLGISMap.aspx.cs">
+      <DependentUpon>OLGISMap.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OLGISMap.aspx.designer.cs">
+      <DependentUpon>OLGISMap.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OLGISMapService.asmx.cs">
+      <DependentUpon>OLGISMapService.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCultureHybridByPlantations.aspx.cs">
+      <DependentUpon>ReportCultureHybridByPlantations.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportCultureHybridByPlantations.aspx.designer.cs">
+      <DependentUpon>ReportCultureHybridByPlantations.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportOrganicFertilizerSurplus.aspx.cs">
+      <DependentUpon>ReportOrganicFertilizerSurplus.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportOrganicFertilizerSurplus.aspx.designer.cs">
+      <DependentUpon>ReportOrganicFertilizerSurplus.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportErosionChangeSelectedPlots.aspx.cs">
+      <DependentUpon>ReportErosionChangeSelectedPlots.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportErosionChangeSelectedPlots.aspx.designer.cs">
+      <DependentUpon>ReportErosionChangeSelectedPlots.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportErosionChangeOrganization.aspx.cs">
+      <DependentUpon>ReportErosionChangeOrganization.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportErosionChangeOrganization.aspx.designer.cs">
+      <DependentUpon>ReportErosionChangeOrganization.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportCulturesRegion.aspx.cs">
+      <DependentUpon>ReportCulturesRegion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportCulturesRegion.aspx.designer.cs">
+      <DependentUpon>ReportCulturesRegion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportFertilizerFromOrganization.aspx.cs">
+      <DependentUpon>ReportFertilizerFromOrganization.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportFertilizerFromOrganization.aspx.designer.cs">
+      <DependentUpon>ReportFertilizerFromOrganization.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportDiseases.aspx.cs">
+      <DependentUpon>ReportDiseases.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportDiseases.aspx.designer.cs">
+      <DependentUpon>ReportDiseases.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportMacroStatisticsForOrganization.aspx.cs">
+      <DependentUpon>ReportMacroStatisticsForOrganization.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportMacroStatisticsForOrganization.aspx.designer.cs">
+      <DependentUpon>ReportMacroStatisticsForOrganization.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportMacroStatisticsForSelectedPlots.aspx.cs">
+      <DependentUpon>ReportMacroStatisticsForSelectedPlots.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportMacroStatisticsForSelectedPlots.aspx.designer.cs">
+      <DependentUpon>ReportMacroStatisticsForSelectedPlots.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportMacroStatisticsForRegion.aspx.cs">
+      <DependentUpon>ReportMacroStatisticsForRegion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportMacroStatisticsForRegion.aspx.designer.cs">
+      <DependentUpon>ReportMacroStatisticsForRegion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportWeediness.aspx.cs">
+      <DependentUpon>ReportWeediness.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportWeediness.aspx.designer.cs">
+      <DependentUpon>ReportWeediness.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportPests.aspx.cs">
+      <DependentUpon>ReportPests.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportPests.aspx.designer.cs">
+      <DependentUpon>ReportPests.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportResultsProtocolsStatistics.aspx.cs">
+      <DependentUpon>ReportResultsProtocolsStatistics.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportResultsProtocolsStatistics.aspx.designer.cs">
+      <DependentUpon>ReportResultsProtocolsStatistics.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportFertilizerProtocol.aspx.cs">
+      <DependentUpon>ReportFertilizerProtocol.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportFertilizerProtocol.aspx.designer.cs">
+      <DependentUpon>ReportFertilizerProtocol.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportFertilizerProtocols.aspx.cs">
+      <DependentUpon>ReportFertilizerProtocols.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportFertilizerProtocols.aspx.designer.cs">
+      <DependentUpon>ReportFertilizerProtocols.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportProductivityOrganization.aspx.cs">
+      <DependentUpon>ReportProductivityOrganization.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportProductivityOrganization.aspx.designer.cs">
+      <DependentUpon>ReportProductivityOrganization.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportPlan.aspx.cs">
+      <DependentUpon>ReportPlan.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportPlan.aspx.designer.cs">
+      <DependentUpon>ReportPlan.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportPlanMission.aspx.cs">
+      <DependentUpon>ReportPlanMission.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportPlanMission.aspx.designer.cs">
+      <DependentUpon>ReportPlanMission.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportPlanRegion.aspx.cs">
+      <DependentUpon>ReportPlanRegion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportPlanRegion.aspx.designer.cs">
+      <DependentUpon>ReportPlanRegion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportPlanWorker.aspx.cs">
+      <DependentUpon>ReportPlanWorker.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportPlanWorker.aspx.designer.cs">
+      <DependentUpon>ReportPlanWorker.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportUsingWateringTypeFarmlandRegion.aspx.cs">
+      <DependentUpon>ReportUsingWateringTypeFarmlandRegion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportUsingWateringTypeFarmlandRegion.aspx.designer.cs">
+      <DependentUpon>ReportUsingWateringTypeFarmlandRegion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportProductivityRegion.aspx.cs">
+      <DependentUpon>ReportProductivityRegion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportProductivityRegion.aspx.designer.cs">
+      <DependentUpon>ReportProductivityRegion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportsDS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReportsDS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="index.aspx.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="index.aspx.designer.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReportPasport.aspx.cs">
+      <DependentUpon>ReportPasport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportPasport.aspx.designer.cs">
+      <DependentUpon>ReportPasport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportSignificativeBySlopeDepartment.aspx.cs">
+      <DependentUpon>ReportSignificativeBySlopeDepartment.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportSignificativeBySlopeDepartment.aspx.designer.cs">
+      <DependentUpon>ReportSignificativeBySlopeDepartment.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportCulturesOrganization.aspx.cs">
+      <DependentUpon>ReportCulturesOrganization.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportCulturesOrganization.aspx.designer.cs">
+      <DependentUpon>ReportCulturesOrganization.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportSignificativeBySlopeOrganization.aspx.cs">
+      <DependentUpon>ReportSignificativeBySlopeOrganization.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportSignificativeBySlopeOrganization.aspx.designer.cs">
+      <DependentUpon>ReportSignificativeBySlopeOrganization.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportSignificativeBySoilOrganization.aspx.cs">
+      <DependentUpon>ReportSignificativeBySoilOrganization.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportSignificativeBySoilOrganization.aspx.designer.cs">
+      <DependentUpon>ReportSignificativeBySoilOrganization.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportPriorityCalcificationOrganization.aspx.cs">
+      <DependentUpon>ReportPriorityCalcificationOrganization.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportPriorityCalcificationOrganization.aspx.designer.cs">
+      <DependentUpon>ReportPriorityCalcificationOrganization.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportSignificativeBySoilRegion.aspx.cs">
+      <DependentUpon>ReportSignificativeBySoilRegion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportSignificativeBySoilRegion.aspx.designer.cs">
+      <DependentUpon>ReportSignificativeBySoilRegion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportHeavyMetalBySoilRegion.aspx.cs">
+      <DependentUpon>ReportHeavyMetalBySoilRegion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportHeavyMetalBySoilRegion.aspx.designer.cs">
+      <DependentUpon>ReportHeavyMetalBySoilRegion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportHeavyMetalBySoilOrganization.aspx.cs">
+      <DependentUpon>ReportHeavyMetalBySoilOrganization.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportHeavyMetalBySoilOrganization.aspx.designer.cs">
+      <DependentUpon>ReportHeavyMetalBySoilOrganization.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Report_analys_control_P_K.aspx.cs">
+      <DependentUpon>Report_analys_control_P_K.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Report_analys_control_P_K.aspx.designer.cs">
+      <DependentUpon>Report_analys_control_P_K.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Report_analys_pH.aspx.cs">
+      <DependentUpon>Report_analys_pH.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Report_analys_pH.aspx.designer.cs">
+      <DependentUpon>Report_analys_pH.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Report_analys_control_pH.aspx.cs">
+      <DependentUpon>Report_analys_control_pH.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Report_analys_control_pH.aspx.designer.cs">
+      <DependentUpon>Report_analys_control_pH.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Report_analys_HA.aspx.cs">
+      <DependentUpon>Report_analys_HA.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Report_analys_HA.aspx.designer.cs">
+      <DependentUpon>Report_analys_HA.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Report_analys_control_HA.aspx.cs">
+      <DependentUpon>Report_analys_control_HA.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Report_analys_control_HA.aspx.designer.cs">
+      <DependentUpon>Report_analys_control_HA.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Report_analys_P_K.aspx.cs">
+      <DependentUpon>Report_analys_P_K.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Report_analys_P_K.aspx.designer.cs">
+      <DependentUpon>Report_analys_P_K.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Report_On_The_Plan.aspx.cs">
+      <DependentUpon>Report_On_The_Plan.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Report_On_The_Plan.aspx.designer.cs">
+      <DependentUpon>Report_On_The_Plan.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportPlanNull.aspx.cs">
+      <DependentUpon>ReportPlanNull.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportPlanNull.aspx.designer.cs">
+      <DependentUpon>ReportPlanNull.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportSignificativeBySoilTerritory.aspx.cs">
+      <DependentUpon>ReportSignificativeBySoilTerritory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportSignificativeBySoilTerritory.aspx.designer.cs">
+      <DependentUpon>ReportSignificativeBySoilTerritory.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportHeavyMetalBySoilTerritory.aspx.cs">
+      <DependentUpon>ReportHeavyMetalBySoilTerritory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportHeavyMetalBySoilTerritory.aspx.designer.cs">
+      <DependentUpon>ReportHeavyMetalBySoilTerritory.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportDriver.aspx.cs">
+      <DependentUpon>ReportDriver.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportDriver.aspx.designer.cs">
+      <DependentUpon>ReportDriver.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportSignificativeBySoilMoscow.aspx.cs">
+      <DependentUpon>ReportSignificativeBySoilMoscow.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportSignificativeBySoilMoscow.aspx.designer.cs">
+      <DependentUpon>ReportSignificativeBySoilMoscow.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportStickers.aspx.cs">
+      <DependentUpon>ReportStickers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportStickers.aspx.designer.cs">
+      <DependentUpon>ReportStickers.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportForm1.aspx.cs">
+      <DependentUpon>ReportForm1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportForm1.aspx.designer.cs">
+      <DependentUpon>ReportForm1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportForm2.aspx.cs">
+      <DependentUpon>ReportForm2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportForm2.aspx.designer.cs">
+      <DependentUpon>ReportForm2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportSignificativeBySoilMoscowYear.aspx.cs">
+      <DependentUpon>ReportSignificativeBySoilMoscowYear.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportSignificativeBySoilMoscowYear.aspx.designer.cs">
+      <DependentUpon>ReportSignificativeBySoilMoscowYear.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportSignificativeBySoilDepartment.aspx.cs">
+      <DependentUpon>ReportSignificativeBySoilDepartment.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportSignificativeBySoilDepartment.aspx.designer.cs">
+      <DependentUpon>ReportSignificativeBySoilDepartment.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportPriorityCalcificationDepartment.aspx.cs">
+      <DependentUpon>ReportPriorityCalcificationDepartment.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportPriorityCalcificationDepartment.aspx.designer.cs">
+      <DependentUpon>ReportPriorityCalcificationDepartment.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TestJS.aspx.cs">
+      <DependentUpon>TestJS.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TestJS.aspx.designer.cs">
+      <DependentUpon>TestJS.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportSignificativeBySoilRegionAddition.aspx.cs">
+      <DependentUpon>ReportSignificativeBySoilRegionAddition.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportSignificativeBySoilRegionAddition.aspx.designer.cs">
+      <DependentUpon>ReportSignificativeBySoilRegionAddition.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportSignificativeBySoilOrganizationAddition.aspx.cs">
+      <DependentUpon>ReportSignificativeBySoilOrganizationAddition.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportSignificativeBySoilOrganizationAddition.aspx.designer.cs">
+      <DependentUpon>ReportSignificativeBySoilOrganizationAddition.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportSignificativeBySoilDepartmentAddition.aspx.cs">
+      <DependentUpon>ReportSignificativeBySoilDepartmentAddition.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportSignificativeBySoilDepartmentAddition.aspx.designer.cs">
+      <DependentUpon>ReportSignificativeBySoilDepartmentAddition.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TestJS_new.aspx.cs">
+      <DependentUpon>TestJS_new.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TestJS_new.aspx.designer.cs">
+      <DependentUpon>TestJS_new.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="packages.config" />
+    <Content Include="App_Readme\Ext.NET\Sample.Web.config" />
+    <Content Include="ReportsDS.xsc">
+      <DependentUpon>ReportsDS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="_bin_deployableAssemblies\data\compdcs.csv" />
+    <None Include="_bin_deployableAssemblies\data\coordinate_axis.csv" />
+    <None Include="_bin_deployableAssemblies\data\cubewerx_extra.wkt" />
+    <None Include="_bin_deployableAssemblies\data\datum_shift.csv" />
+    <None Include="_bin_deployableAssemblies\data\ecw_cs.wkt" />
+    <None Include="_bin_deployableAssemblies\data\ellipsoid.csv" />
+    <None Include="_bin_deployableAssemblies\data\epsg.wkt" />
+    <None Include="_bin_deployableAssemblies\data\esri_extra.wkt" />
+    <None Include="_bin_deployableAssemblies\data\esri_StatePlane_extra.wkt" />
+    <None Include="_bin_deployableAssemblies\data\esri_Wisconsin_extra.wkt" />
+    <None Include="_bin_deployableAssemblies\data\gcs.csv" />
+    <None Include="_bin_deployableAssemblies\data\gcs.override.csv" />
+    <Resource Include="ReportsDS.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ReportsDS.Designer.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Content Include="ReportsDS.xss">
+      <DependentUpon>ReportsDS.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Contracts\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Reports\AlalysControlReport_HA.rdlc" />
+    <EmbeddedResource Include="Reports\AlalysControlReport_pH.rdlc" />
+    <EmbeddedResource Include="Reports\AlalysControlReport_P_K.rdlc" />
+    <EmbeddedResource Include="Reports\AlalysReport_HA.rdlc" />
+    <EmbeddedResource Include="Reports\AlalysReport_HM.rdlc" />
+    <EmbeddedResource Include="Reports\AlalysReport_pH.rdlc" />
+    <EmbeddedResource Include="Reports\AlalysReport_P_K.rdlc" />
+    <EmbeddedResource Include="Reports\CultureHybridByPlantationsReport.rdlc" />
+    <EmbeddedResource Include="Reports\OrganicFertilizerSurplus.rdlc" />
+    <EmbeddedResource Include="Reports\MacroStatisticsForOrganization.rdlc" />
+    <EmbeddedResource Include="Reports\MacroStatisticsForSelectedPlots.rdlc" />
+    <EmbeddedResource Include="Reports\MacroStatisticsForRegion.rdlc" />
+    <EmbeddedResource Include="Reports\ReportErosionChangeFromSelectedPlots.rdlc" />
+    <EmbeddedResource Include="Reports\ReportErosionChangeFromOrganization.rdlc" />
+    <EmbeddedResource Include="Reports\ReportDiseases.rdlc" />
+    <EmbeddedResource Include="Reports\ReportWeediness.rdlc" />
+    <EmbeddedResource Include="Reports\ReportPests.rdlc" />
+    <EmbeddedResource Include="Reports\ResultsProtocolsStatistics.rdlc" />
+    <EmbeddedResource Include="Reports\OrganicFertilizerFromOrganization.rdlc" />
+    <EmbeddedResource Include="Reports\DriverReport.rdlc" />
+    <EmbeddedResource Include="Reports\FertilizerProtocol.rdlc" />
+    <EmbeddedResource Include="Reports\GroupBySoilFromMoscowSubReport.rdlc" />
+    <EmbeddedResource Include="Reports\GroupBySoilFromMoscowYearSubReport.rdlc" />
+    <EmbeddedResource Include="Reports\GroupBySoilFromRegionSubReport.rdlc" />
+    <EmbeddedResource Include="Reports\GroupBySoilFromRegionSubReportAddition.rdlc" />
+    <EmbeddedResource Include="Reports\GroupBySoilFromTerritorySubReport.rdlc" />
+    <EmbeddedResource Include="Reports\GroupBySoilHeavyMetalFromRegionSubReport.rdlc" />
+    <EmbeddedResource Include="Reports\GroupBySoilHeavyMetalFromTerritorySubReport.rdlc" />
+    <EmbeddedResource Include="Reports\GroupBySoilHeavyMetalSubReport.rdlc" />
+    <EmbeddedResource Include="Reports\GroupBySoilSubReport.rdlc" />
+    <EmbeddedResource Include="Reports\GroupBySoilSubReportAddition.rdlc" />
+    <EmbeddedResource Include="Reports\GroupBySoilSubReportDepartment.rdlc" />
+    <EmbeddedResource Include="Reports\GroupBySoilSubReportDepartmentAddition.rdlc" />
+    <EmbeddedResource Include="Reports\HeavyMetalBySoilOrganization.rdlc" />
+    <EmbeddedResource Include="Reports\HeavyMetalBySoilRegion.rdlc" />
+    <EmbeddedResource Include="Reports\HeavyMetalBySoilTerritory.rdlc" />
+    <EmbeddedResource Include="Reports\MicroSubReports\mission.rdlc" />
+    <EmbeddedResource Include="Reports\MicroSubReports\region.rdlc" />
+    <EmbeddedResource Include="Reports\MicroSubReports\region_mission.rdlc" />
+    <EmbeddedResource Include="Reports\MicroSubReports\worker.rdlc" />
+    <EmbeddedResource Include="Reports\MicroSubReports\worker_mission.rdlc" />
+    <EmbeddedResource Include="Reports\MicroSubReports\worker_region_mission.rdlc" />
+    <EmbeddedResource Include="Reports\ReportFertilizerProtocols.rdlc" />
+    <EmbeddedResource Include="Reports\PasportReport.rdlc" />
+    <EmbeddedResource Include="Reports\PlanMissionReport.rdlc" />
+    <EmbeddedResource Include="Reports\PlanRegionReport.rdlc" />
+    <EmbeddedResource Include="Reports\PlanReport.rdlc" />
+    <EmbeddedResource Include="Reports\PlanReportNull.rdlc" />
+    <EmbeddedResource Include="Reports\PlanWorkerReport.rdlc" />
+    <EmbeddedResource Include="Reports\PriorityCalcificationFromDepartment.rdlc" />
+    <EmbeddedResource Include="Reports\PriorityCalcificationFromOrganization.rdlc" />
+    <EmbeddedResource Include="Reports\ReportCulturesOrganization.rdlc" />
+    <EmbeddedResource Include="Reports\ReportCulturesRegion.rdlc" />
+    <EmbeddedResource Include="Reports\ReportForm1.rdlc" />
+    <EmbeddedResource Include="Reports\ReportForm2.rdlc" />
+    <EmbeddedResource Include="Reports\ReportOnThePlan.rdlc" />
+    <EmbeddedResource Include="Reports\ReportProductivityOrganization.rdlc" />
+    <EmbeddedResource Include="Reports\ReportProductivityRegion.rdlc" />
+    <EmbeddedResource Include="Reports\ReportUsingWateringTypeFarmlandRegion.rdlc" />
+    <EmbeddedResource Include="Reports\SignificativeBySlopeDepartment.rdlc" />
+    <EmbeddedResource Include="Reports\SignificativeBySlopeOrganization.rdlc" />
+    <EmbeddedResource Include="Reports\SignificativeBySoilDepartment.rdlc" />
+    <EmbeddedResource Include="Reports\SignificativeBySoilDepartmentAddition.rdlc" />
+    <EmbeddedResource Include="Reports\SignificativeBySoilMoscow.rdlc" />
+    <EmbeddedResource Include="Reports\SignificativeBySoilMoscowYear.rdlc" />
+    <EmbeddedResource Include="Reports\SignificativeBySoilOrganization.rdlc" />
+    <EmbeddedResource Include="Reports\SignificativeBySoilOrganizationAddition.rdlc" />
+    <EmbeddedResource Include="Reports\SignificativeBySoilRegion.rdlc" />
+    <EmbeddedResource Include="Reports\SignificativeBySoilRegionAddition.rdlc" />
+    <EmbeddedResource Include="Reports\SignificativeBySoilTerritory.rdlc" />
+    <EmbeddedResource Include="Reports\StickersReport.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\AlalysControlReport_P_K.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\AlalysReport_pH.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\AlalysReport_P_K.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\GroupBySoilFromRegionSubReport.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\GroupBySoilHeavyMetalFromRegionSubReport.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\GroupBySoilHeavyMetalSubReport.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\GroupBySoilSubReport.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\HeavyMetalBySoilOrganization.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\HeavyMetalBySoilRegion.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\MicroSubReports\region_mission.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\MicroSubReports\mission.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\MicroSubReports\region.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\MicroSubReports\worker_region_mission.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\MicroSubReports\worker_mission.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\MicroSubReports\worker.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\PasportReport.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\PlanMissionReport.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\PlanRegionReport.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\PlanReport.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\PlanWorkerReport.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\PriorityCalcificationFromOrganization.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\ReportForm1.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\SignificativeBySlopeDepartment.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\SignificativeBySlopeOrganization.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\SignificativeBySoilOrganization.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\SignificativeBySoilRegion.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\AlalysControlReport_pH.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\AlalysControlReport_HA.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\AlalysReport_HA.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\ReportOnThePlan.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\PlanReportNull.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\SignificativeBySoilTerritory.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\GroupBySoilFromTerritorySubReport.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\GroupBySoilHeavyMetalFromTerritorySubReport.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\HeavyMetalBySoilTerritory.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\DriverReport.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\SignificativeBySoilMoscow.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\GroupBySoilFromMoscowSubReport.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\StickersReport.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\ReportForm2.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\GroupBySoilFromMoscowYearSubReport.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\SignificativeBySoilMoscowYear.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\AlalysReport_HM.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\SignificativeBySoilDepartment.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\GroupBySoilSubReportDepartment.rdlc" />
+    <EmbeddedResource Include="swfupload\Reports\PriorityCalcificationFromDepartment.rdlc" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Word">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>6</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>8733</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:8080/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,12 @@
+D:\agro_proba\agro_proba\bin\agro_proba.dll
+D:\agro_proba\agro_proba\bin\agro_proba.pdb
+D:\agro_proba\agro_proba\bin\Ext.Net.dll
+D:\agro_proba\agro_proba\bin\Ext.Net.Utilities.dll
+D:\agro_proba\agro_proba\bin\Newtonsoft.Json.dll
+D:\agro_proba\agro_proba\bin\Transformer.NET.dll
+D:\agro_proba\agro_proba\bin\Ext.Net.xml
+D:\agro_proba\agro_proba\bin\Ext.Net.Utilities.xml
+D:\agro_proba\agro_proba\bin\Newtonsoft.Json.xml
+D:\agro_proba\agro_proba\bin\Transformer.NET.xml
+D:\agro_proba\agro_proba\obj\Debug\agro_proba.dll
+D:\agro_proba\agro_proba\obj\Debug\agro_proba.pdb
